@@ -1,1 +1,1 @@
-# example-mruby-gpio
+# Sample files using mrbgems mruby-gpio
