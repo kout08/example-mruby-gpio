@@ -1,3 +1,4 @@
+#Using I2C device for HDC1000
 fd = Gpio.i2cSetup(0x40);
 
 if (ret = Gpio.i2cWrite(fd,0x02,0x0000)) < 0
